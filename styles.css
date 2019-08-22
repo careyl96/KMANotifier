@@ -1,0 +1,20 @@
+html {
+    color: #dadada;
+    font-family: normal 12px "Tahoma" , Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 400px;
+    background-color: #161616;
+}
+
+.img_header {
+    max-height: 30px;
+}
+
+.headers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; 
+}
